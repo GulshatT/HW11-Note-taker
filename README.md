@@ -1,7 +1,7 @@
 # 11 Express.js: Note Taker
 
 ## Heroku link below
-https://frozen-brook-19750.herokuapp.com/notes 
+https://frozen-brook-19750.herokuapp.com/
 
 
 ## User Story
